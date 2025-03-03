@@ -1,4 +1,4 @@
-###NewsApp
+NewsApp
 
 NewsApp is a modern Android application that provides the latest news articles with bookmarking and searching capabilities. The app follows Clean Architecture principles and utilizes the latest Android technologies to ensure a robust and scalable implementation.
 
@@ -44,8 +44,7 @@ Retrofit - HTTP client for API calls
 
 Room Database - Local database for caching news articles
 
-Paging 3 - [NewsApp_README.md](https://github.com/user-attachments/files/19059036/NewsApp_README.md)
-Efficient pagination handling
+Paging 3 -Efficient pagination handling
 
 Dagger Hilt - Dependency injection framework
 
