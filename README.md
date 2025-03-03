@@ -43,16 +43,6 @@ git clone https://github.com/yourusername/NewsApp.git
 1. Sync Gradle dependencies.
 2. Run the app on an emulator or a real device.
 
-## API Setup
-- The app fetches news from a public API. You need an API key to use it.
-- Add your API key in `local.properties`:
-```properties
-NEWS_API_KEY=your_api_key_here
-```
-
-## License
-This project is licensed under the **MIT License**.
-
 ## Contribution
 Feel free to fork and contribute to this project by submitting pull requests.
 
