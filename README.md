@@ -13,7 +13,7 @@ NewsApp is a modern Android application that provides the latest news articles w
 
 ## Screenshots
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png)
 
 ### Search Screen
 ![Search](screenshots/search.png)
