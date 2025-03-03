@@ -16,13 +16,13 @@ NewsApp is a modern Android application that provides the latest news articles w
 ![Home](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png)
 
 ### Search Screen
-![Search](screenshots/search.png)
+![Search](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/search.png)
 
 ### News Detail
-![Details](screenshots/details.png)
+![Details](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/details.png)
 
 ### Bookmarked News
-![Bookmarks](screenshots/bookmarks.png)
+![Bookmarks](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/bookmarks.png)
 
 ## Tech Stack
 - **Kotlin** - Official language for Android development
