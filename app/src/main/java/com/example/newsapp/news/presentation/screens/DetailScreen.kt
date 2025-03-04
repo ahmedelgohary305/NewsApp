@@ -84,15 +84,19 @@ fun DetailScreen(news: NewsEntity, onBackClick: () -> Unit, onLinkClick: (String
                         radius = 2.dp
                     )
             )
-            Text(
-                modifier = Modifier
-                    .align(Alignment.BottomStart)
-                    .padding(start = 8.dp, bottom = 16.dp),
-                text = news.title,
-                style = MaterialTheme.typography.headlineSmall,
-                fontFamily = FontFamily(Font(R.font.poppins_black_italic)),
-                color = Color.White
-            )
+            Box(
+                modifier = Modifier.padding(bottom = 16.dp).align(Alignment.BottomStart).background(
+                    color = Color.Black.copy(alpha = 0.4f)
+                )
+            ){
+                Text(
+                    modifier = Modifier.padding(start = 8.dp),
+                    text = news.title,
+                    style = MaterialTheme.typography.headlineSmall,
+                    fontFamily = FontFamily(Font(R.font.poppins_black_italic)),
+                    color = Color.White
+                )
+            }
         }
         Row(
             horizontalArrangement = Arrangement.spacedBy(8.dp),
