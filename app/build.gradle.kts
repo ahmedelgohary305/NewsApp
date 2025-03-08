@@ -100,5 +100,4 @@ dependencies {
 
     // Accompanist
     implementation("com.google.accompanist:accompanist-swiperefresh:$accompanistVersion")
-    implementation ("com.google.accompanist:accompanist-navigation-animation:0.32.0")
 }

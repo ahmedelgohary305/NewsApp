@@ -1,8 +1,7 @@
 package com.example.newsapp.news.presentation.utils
 
-import android.annotation.SuppressLint
+
 import android.content.Context
-import android.net.ConnectivityManager
 import android.net.Uri
 import android.widget.Toast
 import androidx.compose.foundation.layout.Arrangement
@@ -22,7 +21,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.Font
