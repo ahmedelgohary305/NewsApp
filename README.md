@@ -12,17 +12,18 @@ NewsApp is a modern Android application that provides the latest news articles w
 - **Image Loading**: Uses Coil for smooth image rendering.
 
 ## Screenshots
-### Home Screen
-![Home](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png)
 
- ### Search Screen
-![Search](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/search.png)
+### Home Screen  
+<img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png" width="300"/>
 
-### News Detail
-![Details](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/details.png)
+### Search Screen  
+<img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/search.png" width="300"/>
 
-### Bookmarked News
-![Bookmarks](https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/bookmarks.png)
+### News Detail  
+<img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/details.png" width="300"/>
+
+### Bookmarked News  
+<img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/bookmarks.png" width="300"/>
 
 ## Tech Stack
 - **Kotlin** - Official language for Android development
