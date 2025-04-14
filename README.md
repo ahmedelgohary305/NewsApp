@@ -13,12 +13,10 @@ NewsApp is a modern Android application that provides the latest news articles w
 
 ## Screenshots
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+| Home | Search | Details | Bookmarks |
+|------|--------|---------|-----------|
+| <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png" width="200"/> | <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/search.png" width="200"/> | <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/details.png" width="200"/> | <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/bookmarks.png" width="200"/> |
 
-  <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/home.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/search.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/details.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/ahmedelgohary305/NewsApp/master/Screenshots/bookmarks.png" width="200"/>
 
 </div>
 
